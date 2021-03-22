@@ -1,3 +1,6 @@
 [submodule "rocketsound-groundstation-gui"]
 	path = rocketsound-groundstation-gui
 	url = https://github.com/jvpichowski/rocketsound-groundstation-gui
+[submodule "rocketsound-firmware"]
+	path = rocketsound-firmware
+	url = https://github.com/jvpichowski/rocketsound-firmware
