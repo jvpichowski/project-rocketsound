@@ -4,3 +4,6 @@
 [submodule "rocketsound-firmware"]
 	path = rocketsound-firmware
 	url = https://github.com/jvpichowski/rocketsound-firmware
+[submodule "rocketsound-groundstation"]
+	path = rocketsound-groundstation
+	url = https://github.com/jvpichowski/rocketsound-groundstation
