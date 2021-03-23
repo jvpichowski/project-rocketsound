@@ -7,6 +7,3 @@
 [submodule "rocketsound-groundstation"]
 	path = rocketsound-groundstation
 	url = https://github.com/jvpichowski/rocketsound-groundstation
-[submodule "telestion-serial-client"]
-	path = telestion-serial-client
-	url = https://github.com/TelestionTeam/telestion-serial-client
